@@ -10,16 +10,17 @@
 
 **What task did you give the agent?**
 
-<!-- Describe the goal you asked the agent to accomplish -->
+Fix new game button
+Fix hint system and checking logic
 
 **What did the agent do?**
 
-<!-- List the steps the agent took (files edited, commands run, etc.) -->
+Fixed the new game button 
+Fixed the hint system so it now accurately reflects my guess compared to the target answer
 
 **What did you have to verify or fix manually?**
 
-<!-- Describe anything the agent got wrong or that required human review -->
-
+I had to verify that the changes the AI were making made sense, and manually write any comments
 ---
 
 ## Test Generation (SF7)
